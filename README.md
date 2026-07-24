@@ -2200,7 +2200,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
 116. ### What are PWAs
 
-     Progressive web applications (PWAs) are a type of mobile app delivered through the web, built using common web technologies including HTML, CSS and JavaScript. These PWAs are deployed to servers, accessible through URLs, and indexed by search engines.
+     Progressive Web App (PWA) is a web application that uses modern web capabilities to provide an app-like experience. Core technologies include a Web App Manifest for installability and a Service Worker for offline support, caching, and network interception. PWAs are responsive, secure (HTTPS), and can be installed on supported devices.
 
      **[⬆ Back to Top](#table-of-contents)**
 
